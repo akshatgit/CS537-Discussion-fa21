@@ -4,4 +4,4 @@ Discussion section materials for COMP SCI 537 (Intro. to Operating Systems) 2021
 
 Instructor: Yuvraj Patel
 
-TAs: Akshat Sinha
+TA: Akshat Sinha
