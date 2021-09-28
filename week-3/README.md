@@ -304,7 +304,7 @@ void
 trap(struct trapframe *tf)
 {
   if(tf->trapno == T_SYSCALL){
-  // something you have already seen in p2
+  // something you have already seen in P1B
   }
 
   switch(tf->trapno){
