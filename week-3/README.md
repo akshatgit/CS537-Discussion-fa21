@@ -11,8 +11,7 @@ The plan for this week:
 - Test each part independently. 
 - - Create custom test user applications. For e.g. when you implement the first 3 syscalls, create a C file, spawn a child process with `fork2`, set it's slice and try to fetch the same with `getslice` syscall. 
 - - Debug any issue with GDB (Can't stress this more!). 
-- - If you are failing any public test case, copy it's code and make a user program. Refer to [this](https://piazza.com/class/kolxzgun59y5rs?cid=133) piazza post. 
-- Start Early! (Biggest Hint!) 
+- - If you are failing any public test case, copy it's code and make a user program. 
 
 ## How xv6 starts
 
