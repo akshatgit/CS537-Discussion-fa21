@@ -293,7 +293,7 @@ It's unsurprising to see `sched()` gets called in these three cases... `exit()` 
 
 ## Timer Interrupt
 
-Scheduling will be less useful without considering timer interrupt. As you have seen in p2, all the interrupts are handled in `trap.c: trap()`.
+Scheduling will be less useful without considering timer interrupt. As you have seen in P1B, all the interrupts are handled in `trap.c: trap()`.
 
 ```C
 struct spinlock tickslock;
